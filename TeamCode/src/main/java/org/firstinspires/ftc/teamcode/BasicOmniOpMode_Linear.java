@@ -102,7 +102,7 @@ public class BasicOmniOpMode_Linear extends LinearOpMode {
         // Wait for the game to start (driver presses PLAY)
         telemetry.addData("Status", "Initialized");
         telemetry.update();
-
+//edit
         waitForStart();
         runtime.reset();
 
